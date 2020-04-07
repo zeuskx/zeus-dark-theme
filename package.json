@@ -1,0 +1,36 @@
+{
+    "name": "zeus-dark-theme",
+    "displayName": "Zeus Dark Theme",
+    "description": "Monokai based dark theme.",
+    "version": "1.0.1",
+    "publisher": "zeuskx",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zeus Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zeuskx-color-theme.json"
+            }
+        ]
+    },
+    "icon": "logo.png",
+	"homepage": "https://github.com/zeuskx/zeus-dark-theme/blob/master/README.md",
+	"bugs": {
+		"url": "https://github.com/zeuskx/zeus-dark-theme/issues"
+	},
+    "license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zeuskx/zeus-dark-theme"
+    },
+    "extensionPack": [
+		"file-icons.file-icons"
+	]
+    
+}
