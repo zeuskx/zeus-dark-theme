@@ -447,7 +447,6 @@
 			}
 		},
 		{
-			"name": "hexadecimal.color",
 			"scope": [
 				"constant.other.color",
 			],
@@ -475,6 +474,18 @@
 			"settings": {
 			  "foreground": "#AE81FF"
 			}
+		  },
+		  {
+			"scope": [
+                //"support.function",
+                //"entity.name.function",
+                "support.function",
+                //"meta.function-call entity.name.function",
+            ],
+            "settings": {
+                "foreground": "#2ee2a5",
+                //"foreground": "#fc8c39",
+            }
 		  }
 		
 	]
