@@ -447,6 +447,7 @@
 			}
 		},
 		{
+			"name": "hexadecimal.color",
 			"scope": [
 				"constant.other.color",
 			],
