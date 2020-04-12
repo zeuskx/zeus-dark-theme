@@ -2,7 +2,7 @@
     "name": "zeus-dark-theme",
     "displayName": "Zeus Dark Theme",
     "description": "Monokai based dark theme.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "zeuskx",
     "engines": {
         "vscode": "^1.43.0"

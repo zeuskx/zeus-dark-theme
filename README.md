@@ -1,4 +1,4 @@
-# Zeus Dark Theme 1.0.1
+# Zeus Dark Theme 1.0.2
 
 Monokai based dark theme by zeuskx.
 
